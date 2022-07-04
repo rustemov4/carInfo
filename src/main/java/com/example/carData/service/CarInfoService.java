@@ -4,7 +4,6 @@ import com.example.carData.entity.CarInfo;
 import com.example.carData.repository.CarInfoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-
 import java.io.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
